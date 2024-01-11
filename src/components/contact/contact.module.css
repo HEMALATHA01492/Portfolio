@@ -1,0 +1,86 @@
+@import "../../variables.css";
+
+.container {
+  color: var(--color-text);
+  margin-top:50px;
+  background-color: var(--color-secondary);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 30px 50px;
+}
+
+.text h2 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.text p {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: 26px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+img{
+  padding: 5px;
+}
+img:hover{
+  border: 2px solid red;
+  border-radius: 5px;
+}
+.mainLink{
+  position: relative;
+  margin: 25px;
+}
+.emailImg{
+  margin-top: 10px;
+  
+}
+.email{
+  position: absolute;
+  margin-top: 10px;
+  padding: 5px;
+  font-size: medium;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .links {
+    align-items: center;
+  }
+  .emailImg{
+    margin-top: 10px;
+    margin-left: -100px;
+  }
+  .email{
+    padding: 5px;
+    font-size: medium;
+    margin-left: 10px;
+  }
+}
