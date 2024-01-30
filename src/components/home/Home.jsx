@@ -22,7 +22,7 @@ const Home = () => {
                  </span>
             </h3>
             <div className={styles.btn}>
-            <a className={styles.contactBtn} href='https://docs.google.com/document/d/1GFx9fMGXh9tNGeTLviaKUOqMAxqLTsrgvU_WXiymX44/edit?usp=sharing' target='_blank'>Resume</a>
+            <a className={styles.contactBtn} href='https://drive.google.com/file/d/1-6rkSx65DjEqtuDxu8tJTD94wLg2q2Nq/view?usp=sharing' target='_blank'>Resume</a>
 
             {/* <a className={styles.contactBtn}>Contact</a> */}
             </div>
