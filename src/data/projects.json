@@ -2,33 +2,18 @@
     {
       "title": "Daily Dress colour suggestions for women",
       "imageSrc": "projects/project12.PNG",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This project aims to offer personalized color suggestions for women’s daily outfits.Also create own Gallery to view on their collections.CRUD Operations",
       "skills": ["Reactjs","Nodejs","Expressjs","Mongo DB"],
       "demo": "https://lucent-frangipane-faa076.netlify.app/",
       "source": "https://github.com/HEMALATHA01492/MERN1-Front/tree/master"
     },
     {
       "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Reactjs","Nodejs","Expressjs","Mongo DB"],
-      "demo": "https://app.netlify.com/teams/hemalatha01492/overview",
-      "source": "https://github.com/HEMALATHA01492/"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Reactjs","Nodejs","Expressjs","Mongo DB"],
-      "demo": "https://app.netlify.com/teams/hemalatha01492/overview",
-      "source": "https://github.com/HEMALATHA01492/"
-    },
-    {
-      "title": "Project D",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Reactjs","Nodejs","Expressjs","Mongo DB"],
-      "demo": "https://app.netlify.com/teams/hemalatha01492/overview",
-      "source": "https://github.com/HEMALATHA01492/"
+      "imageSrc": "projects/project2.JPG",
+      "description": "The real-time chat application allows users to engage in conversations with each other instantly",
+      "skills": ["Reactjs","Nodejs","Mongo DB","socket.io"],
+      "demo": "https://subtle-salamander-dd5243.netlify.app/login",
+      "source": "https://github.com/HEMALATHA01492/chat-app-FE"
     }
+    
   ]
