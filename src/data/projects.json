@@ -8,7 +8,7 @@
       "source": "https://github.com/HEMALATHA01492/MERN1-Front/tree/master"
     },
     {
-      "title": "Project B",
+      "title": "Real Time Chat Aplication",
       "imageSrc": "projects/project2.JPG",
       "description": "The real-time chat application allows users to engage in conversations with each other instantly",
       "skills": ["Reactjs","Nodejs","Mongo DB","socket.io"],
